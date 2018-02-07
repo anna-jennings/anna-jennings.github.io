@@ -1,0 +1,35 @@
+body{
+background-color:#66ccff;
+}
+
+#topBanner{
+background: #0077b3;
+height: 120px;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 1px;
+color: #FCEADE;
+font-size: 30px;
+font-family: "Arial", sans-serif;
+text-align: center;
+vertical-align: middle;
+line-height: 120px;
+}
+
+#main{
+margin-left: 5%;
+margin-right: 5%;
+color: black;
+font-size: 17px;
+font-family: "Arial", sans-serif;
+}
+
+.image{
+display: block;
+margin: auto;
+width: 40%;
+}
+
+img{
+width:50px;
+}
